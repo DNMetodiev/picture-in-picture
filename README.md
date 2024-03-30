@@ -25,7 +25,8 @@ This project runs in any modern web browser that supports the Picture in Picture
 git clone https://github.com/DNMetodiev/picture-in-picture.git
 ```
 Open the index.html file in your browser to launch the project.
-Usage
+
+###Usage
 This application is designed to demonstrate the Picture in Picture functionality in a straightforward manner:
 
 Upon opening the application, you will see a 'START' button.
